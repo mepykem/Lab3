@@ -1,0 +1,7 @@
+# Ігнорування тимчасових і системних файлів
+Thumbs.db
+.DS_Store
+*.log
+*.bak
+.vscode/
+.idea/
